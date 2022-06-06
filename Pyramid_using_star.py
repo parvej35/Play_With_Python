@@ -2,7 +2,7 @@
 @Author: Parvej Chowdhury
 @Time: 01-Jun-22 1:10 AM
 
-Write a program to print a pyramid using *
+Python program to print pyramid using star (*)
         *
       * * *
     * * * * *
