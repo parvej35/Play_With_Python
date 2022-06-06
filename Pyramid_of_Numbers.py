@@ -1,6 +1,6 @@
 """
 @Author: Parvej Chowdhury
-@Time: 07-Jun-22 1:08 AM
+@Time: 01-Jun-22 1:08 AM
 
 Full Pyramid of Numbers
 
